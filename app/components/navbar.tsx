@@ -39,7 +39,7 @@ export default function Navbar() {
   const [activeCategory, setActiveCategory] = useState(services[0]);
 
   return (
-    <header className="bg-[#0E2A47] text-white shadow-md">
+    <header className="bg-[#022641] text-white shadow-md">
       <div className="max-w-7xl mx-auto flex justify-between items-center p-5">
         {/* Logo */}
         <Link href="/">
