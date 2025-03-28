@@ -30,7 +30,7 @@ const Page = () => {
             </div>
 
             <h1 className="font-extrabold text-[55px] text-white  ">
-              To Lead Your Business for Growth
+              To Lead Your Business for Growths
             </h1>
           </div>
 
