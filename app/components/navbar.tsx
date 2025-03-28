@@ -53,7 +53,7 @@ export default function Navbar() {
         {/* Navigation Links */}
         <nav className="flex space-x-8">
           <Link href="/about" className="hover:text-cyan-300">
-            About Us
+            About Ussdsds
           </Link>
           <div className="relative">
             <button
